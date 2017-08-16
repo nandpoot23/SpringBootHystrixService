@@ -1,0 +1,50 @@
+*************************************************************************************************************************
+
+http://localhost:8080/to-read
+
+Spring in Action (Manning), Cloud Native Java, Learning Spring Boot
+
+*************************************************************************************************************************
+
+Rest External Service:- SpringBootRestServiceDemo
+
+URL:- http://localhost:6070/multipleCustomer/v1/welcome
+
+*************************************************************************************************************************
+
+Fault Tolerance:- Now close the 6070 external service & then run. 
+
+Cloud Native Java (Ohh Really)
+
+*************************************************************************************************************************
+
+http://localhost:8080/hystrix
+http://localhost:8080/hystrix.stream
+
+*************************************************************************************************************************
+
+Health Status:- http://localhost:8080/health
+
+*************************************************************************************************************************
+
+Help:-
+
+https://blog.de-swaef.eu/the-netflix-stack-using-spring-boot-part-2-hystrix/
+https://blog.de-swaef.eu/the-netflix-stack-using-spring-boot-part-3-feign/
+https://exampledriven.wordpress.com/2016/07/05/spring-cloud-hystrix-example/
+https://www.credera.com/blog/credera-site/circuit-breaker-pattern-in-spring-boot/
+http://www.baeldung.com/spring-cloud-netflix-hystrix
+https://exampledriven.wordpress.com/2016/07/05/spring-cloud-hystrix-example/
+
+http://httpd.apache.org/docs/2.4/programs/ab.html
+
+https://dzone.com/articles/spring-cloud-with-turbine
+http://www.java-allandsundry.com/2016/01/spring-cloud-with-turbine.html
+
+http://callistaenterprise.se/blogg/teknik/2015/04/10/building-microservices-with-spring-cloud-and-netflix-oss-part-1/
+http://callistaenterprise.se/blogg/teknik/2015/04/15/building-microservices-with-spring-cloud-and-netflix-oss-part-2/
+
+https://stackoverflow.com/questions/28365202/spring-boot-eureka-server-hystrix-with-turbine-empty-turbine-stream
+https://stackoverflow.com/questions/30581158/how-to-add-into-turbine-additional-hystrix-metrics-aggregations
+
+*************************************************************************************************************************

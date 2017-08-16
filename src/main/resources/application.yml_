@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: hystrix-service
+    version: 1.0.0
+  mvc:
+    throw-exception-if-no-handler-found: true
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9799/eureka/
+  instance:
+    preferIpAddress: true
